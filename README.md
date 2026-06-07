@@ -286,6 +286,6 @@ Possible future enhancements include:
 
 ## Author
 
-Sudharshan Yadav
+Laxmi Sudharshan
 
 Data Analytics | Statistics | Power BI | Python
